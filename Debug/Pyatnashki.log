@@ -1,0 +1,3 @@
+﻿  Pyatnashki.cpp
+C:\Users\kaine\source\repos\Pyatnashki\Pyatnashki.cpp(157,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Pyatnashki.vcxproj -> C:\Users\kaine\source\repos\Pyatnashki\Debug\Pyatnashki.exe
